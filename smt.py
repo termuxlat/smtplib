@@ -11,7 +11,7 @@ from email.mime.multipart import MIMEMultipart
 
 print(colored( '''
 
-@🆃🅴🆁🅼🆄🆇@
+＠Ｔｅｒｍｕｘ＠
 
 		  
 		''','magenta'))
